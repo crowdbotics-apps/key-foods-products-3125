@@ -1,0 +1,3 @@
+rootProject.name = 'key_foods_products_3125'
+
+include ':app'
